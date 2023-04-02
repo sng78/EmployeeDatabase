@@ -4,7 +4,7 @@
 - Необходимо создать CRUD-приложение для работы с базой данных работников
 
 ***Используемые технологии:***
-- Java JDK, Spring Framework, Spring MVC, Hibernate, ORM, MySQL, библиотека JSTL (JSP), библиотека c3p0 (JDBC), Git, Github, IntelliJ IDEA, Maven
+- Java JDK, Spring Framework, Spring MVC, Hibernate, ORM, MySQL, Git, Github, IntelliJ IDEA, Maven, библиотеки JSTL (JSP), c3p0 (JDBC)
 
 ***Результаты:***
 - Создал MySQL базу данных работников
